@@ -1,0 +1,54 @@
+body{
+  background-image: url('kepek/watermelons-2636_960_720.jpg');
+  color: #f5ea41;
+  padding: 15 px;
+}
+
+h1{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+.keret{
+  margin: 10px auto;
+  text-align: center;
+  padding: 10 px;
+  font-size: 75%;
+  background-color:  #ee1c25;
+  color: #f5ea41;
+  box-shadow: 1px 1px 1px black;
+}
+
+
+#box-1{
+  width: 350px;
+  height: 294px;
+  background-color: rgb(1, 95, 67);
+  border: 5px;
+  text-align: center;
+  margin-left: 150px;
+}
+
+#box-2{
+  width: 320px;
+  height: 274px;
+  background-color:rgb(1, 95, 67);;
+  border: 5px;
+  text-align: center;
+  margin-right: 150px;
+  float: right;
+}
+
+
+#gorog{
+  border: 5px solid;
+  width: 310px;
+  height: 206px;
+}
+
+#sarga{
+  border: 5px solid;
+  width: 280px;
+  height: px;
+}
